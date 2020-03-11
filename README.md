@@ -1,9 +1,9 @@
 
 # Digitale verktøy for hjemmekontor.
 
-Dette er alle verktøy som du raskt kan komme i gang med uten å installere software.
+Dette er alle verktøy som du raskt kan komme i gang med uten å ha din egen server.
 
-Mange av dere har allerede verktøy igjennom programvare pakken for epost og office programmer.
+Mange av dere har allerede verktøy igjennom programvarepakken for epost og office-programmer.
 
 
 ## Min arbeidsgiver har office 360 i dag.
