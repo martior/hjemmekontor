@@ -1,7 +1,5 @@
 
-
-
-# Verktøy der nesten alle har hjemmekontor.
+### Verktøy der nesten alle har hjemmekontor.
 
 Dette er alle verktøy som du raskt kan komme i gang med uten å installere software.
 
