@@ -23,14 +23,16 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 - [Slack](https://slack.com/)  – Gruppechat:  (gratis versjon)
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
 
+# Streaming av Arrangement.
+Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan følgende platformer brukes til live overføring av video til mange deltakere. F.eks for gudstjenester, konserter, bokbad, foredrag.
 
-## Mer
+- [Youtube](https://www.youtube.com/) Du kan strame fra pc eller hvis du har over 1000 abonnenter på kanalen din kan du også streame direkte fra mobil.
 
 
-
+# Undervisning
 
 Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for læring](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions). Mange av disse kan også fint brukes i jobb eller organisasjoner.
 
-## Om denne siden
+# Om denne siden
 Denne listen er vedlikeholdt av Martin O Reistadbakk, CTO i [Roede AS](https://www.roede.com). Martin har mange års erfaring med gruppearbeid på internett. Endringer eller kommentarer kan sendes til [Martin på twitter](http://twitter.com/martior) eller [lag en ticket eller pull request på github](https://github.com/martior/hjemmekontor/issues).
 
