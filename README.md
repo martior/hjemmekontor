@@ -18,7 +18,6 @@ Da har du tilgang til [meet.google.com](https://meet.google.com/_meet) for ekste
 
 ## Min bedrift har ingen av delene.
 
-
 - [Slack](https://slack.com/)  – Gruppechat:  (gratis versjon)
 
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
