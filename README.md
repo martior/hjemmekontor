@@ -1,11 +1,11 @@
 
-# Digitale verktøy for hjemmekontor.
+# Digitale verktøy for hjemmekontor
 
 Dette er alle verktøy som du raskt kan komme i gang med uten å ha din egen server.
 
 Mange av dere har allerede verktøy igjennom programvarepakken for epost og office-programmer. Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
 
-## Min arbeidsgiver har office 360 i dag.
+## Min arbeidsgiver har office 360 i dag
 - [Microsoft Teams](https://products.office.com/nb-no/microsoft-teams/group-chat-software?market=no) Gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere.
 
 
@@ -16,14 +16,14 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 - [Google Hangouts](https://hangouts.google.com/webchat/start) for gruppechat og interne videomøter
 
 
-## Min bedrift har ingen av delene.
+## Min bedrift har ingen av delene
 
 - [Whereby](https://whereby.com) - Digitale videomøter uten å måtte laste ned programvare. Gratis for opp til 4 deltakere. Norsk tjeneste.
 - [Jitsi Meet](https://meet.jit.si) Digitale videomøter. Gratis og open source.
 - [Slack](https://slack.com/)  – Gruppechat:  (gratis versjon)
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
 
-# Streaming av Arrangement.
+# Streaming av Arrangement
 Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan følgende platformer brukes til live overføring av video til mange deltakere. F.eks for gudstjenester, konserter, bokbad, foredrag.
 
 - [Youtube](https://www.youtube.com/) Du kan strame fra pc eller hvis du har over 1000 abonnenter på kanalen din kan du også streame direkte fra mobil.
