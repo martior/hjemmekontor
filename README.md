@@ -8,7 +8,7 @@ Mange av dere har allerede verktøy igjennom programvare pakken for epost og off
 
 ## Min arbeidsgiver har office 360 i dag.
 
-Da har du gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere tilgjengelig i Microsoft teams.
+Da har du gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere tilgjengelig i [Microsoft Teams](https://products.office.com/nb-no/microsoft-teams/group-chat-software?market=no).
 
 
 ## Min arebidsgiver har Google gsuite
@@ -16,12 +16,12 @@ Da har du gruppe chat, fildeling og både eksterne og interne video og lyd møte
 Da har du tilgang til [meet.google.com](https://meet.google.com/_meet) for eksterne møter og google hangouts https://hangouts.google.com/webchat/start for gruppechat og interne videomøter
 
 
-# Min bedrift har ingen av delene.
+## Min bedrift har ingen av delene.
 
 
-Slack https://slack.com/  – Gruppechat:  (gratis versjon)
+- [Slack](https://slack.com/)  – Gruppechat:  (gratis versjon)
 
-Zoom https://zoom.us/  – Digitale videomøter og chat. (Gratis for 1-1 møter)
+- [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
 
 
 Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
