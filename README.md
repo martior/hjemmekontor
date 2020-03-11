@@ -26,5 +26,5 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
 
 
-Unesco har også lagd en god oversikt over tilgjengelige digitale verktøy for læring. Mange av disse kan også fint brukes i jobb eller organisasjoner.
-https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions
+Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for læring](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions). Mange av disse kan også fint brukes i jobb eller organisasjoner.
+
