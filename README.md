@@ -5,8 +5,6 @@ Dette er alle verktøy som du raskt kan komme i gang med uten å ha din egen ser
 
 Mange av dere har allerede verktøy igjennom programvarepakken for epost og office-programmer. Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
 
-[10 læresetninger for et godt hjemmekontor av DN's Stine Engen](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731)
-
 ## Min arbeidsgiver har office 360 i dag
 - [Microsoft Teams](https://products.office.com/nb-no/microsoft-teams/group-chat-software?market=no) Gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere.
 
@@ -37,4 +35,6 @@ Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for 
 
 # Om denne siden
 Denne listen er vedlikeholdt av Martin O Reistadbakk, CTO i [Roede AS](https://www.roede.com). Martin har mange års erfaring med gruppearbeid på internett. Endringer eller kommentarer kan sendes til [Martin på twitter](http://twitter.com/martior) eller [lag en ticket eller pull request på github](https://github.com/martior/hjemmekontor/issues).
+
+[10 læresetninger for et godt hjemmekontor av DN's Stine Engen](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731)
 
