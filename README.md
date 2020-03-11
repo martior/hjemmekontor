@@ -23,7 +23,7 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 - [Slack](https://slack.com/)  – Gruppechat med gratisversjon med noe begrenset funksjonalitet.
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
 
-# Streaming av Arrangement
+# Streaming av arrangement
 Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan følgende platformer brukes til live overføring av video til mange deltakere. F.eks for gudstjenester, konserter, bokbad, foredrag.
 
 - [Youtube](https://www.youtube.com/) Du kan strame fra pc eller hvis du har over 1000 abonnenter på kanalen din kan du også streame direkte fra mobil.
