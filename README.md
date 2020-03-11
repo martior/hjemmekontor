@@ -30,5 +30,5 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for læring](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions). Mange av disse kan også fint brukes i jobb eller organisasjoner.
 
 ## Om denne siden
-Denne listen er vedlikeholdt av Martin O Reistadbakk CTO i [Roede AS](https://www.roede.com). Endringer eller kommentarer kan sendes til [Martin på twitter](http://twitter.com/martior) eller [lag en ticket eller pull request på github](https://github.com/martior/hjemmekontor/issues)
+Denne listen er vedlikeholdt av Martin O Reistadbakk, CTO i [Roede AS](https://www.roede.com). Martin har mange års erfaring med gruppearbeid på internett. Endringer eller kommentarer kan sendes til [Martin på twitter](http://twitter.com/martior) eller [lag en ticket eller pull request på github](https://github.com/martior/hjemmekontor/issues)
 
