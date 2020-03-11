@@ -19,7 +19,7 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 ## Min bedrift har ingen av delene
 
 - [Whereby](https://whereby.com) - Digitale videomøter uten å måtte laste ned programvare. Gratis for opp til 4 deltakere. Norsk tjeneste.
-- [Jitsi Meet](https://meet.jit.si) Digitale videomøter. Gratis og open source.
+- [Jitsi Meet](https://meet.jit.si) Digitale videomøter. Gratis og open source uten å måtte laste ned programvare eller registrere seg.
 - [Slack](https://slack.com/)  – Gruppechat:  (gratis versjon)
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
 
