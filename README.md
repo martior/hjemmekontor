@@ -18,8 +18,8 @@ Da har du allerede tilgang til følgende:
 Da har du allerede tilgang til følgende:
 
 ### Video og gruppechat
-- [meet.google.com](https://meet.google.com/_meet) for eksterne møter
-- [Google Hangouts](https://hangouts.google.com/webchat/start) for gruppechat og interne videomøter
+- [meet.google.com](https://meet.google.com/_meet) for videomøter
+- [Google Hangouts](https://hangouts.google.com/webchat/start) for gruppechat og gruppe-videomøter
 
 ### Fildeling
 - [Google Drive](https://www.google.com/drive/)
@@ -29,10 +29,11 @@ Da har du allerede tilgang til følgende:
 
 ### Video og gruppechat
 
-- [Whereby](https://whereby.com) - Digitale videomøter uten å måtte laste ned programvare. Gratis for opp til 4 deltakere. Norsk tjeneste.
-- [Jitsi Meet](https://meet.jit.si) Digitale videomøter. Gratis og open source uten å måtte laste ned programvare eller registrere seg.
+- [Whereby](https://whereby.com) - Videomøter uten å måtte laste ned programvare. Gratis for opp til 4 deltakere. Norsk tjeneste.
+- [Jitsi Meet](https://meet.jit.si) Videomøter. Gratis og open source uten å måtte laste ned programvare eller registrere seg.
 - [Slack](https://slack.com/)  – Gruppechat med gratisversjon med noe begrenset funksjonalitet.
-- [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
+- [Zoom](https://zoom.us/)  – Videomøter og chat. (Gratis for 1-1 møter)
+- [Cisco Webex](https://blog.webex.com/video-conferencing/cisco-webex-supporting-customers-during-this-unprecedented-time/) – Videomøter og gruppechat. Gratis for opp til 100 deltaker i forbindelse med Convid-19.
 
 ### Fildeling
 - [Box](https://www.box.com/)
