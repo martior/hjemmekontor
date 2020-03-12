@@ -54,6 +54,10 @@ Her finnes det mange verktøy, men ingen er så fleksible og allsidige som [Trel
 
 Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for læring](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions). Mange av disse kan også fint brukes i jobb eller organisasjoner.
 
+## Tips & triks
+- [Sette opp Zoom for klasseromsundervisning](https://www.youtube.com/watch?v=KcvJqi9vmlc) (Video av [Stian Øby Johansen, UiO](https://twitter.com/StianOby) )
+- [Bruke Zoom som elev (engelsk)](https://www.youtube.com/watch?v=5iap0Ffl5Lg)
+
 # Tips til hjemmekontor
 - [10 læresetninger for et godt hjemmekontor av DN's Stine Engen](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731)
 
