@@ -44,8 +44,10 @@ Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan
 
 Unesco har også lagd en [god oversikt over tilgjengelige digitale verktøy for læring](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions). Mange av disse kan også fint brukes i jobb eller organisasjoner.
 
+# Tips til hjemmekontor
+- [10 læresetninger for et godt hjemmekontor av DN's Stine Engen](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731)
+
 # Om denne siden
 Denne listen er vedlikeholdt av Martin O Reistadbakk, CTO i [Roede AS](https://www.roede.com). Martin har mange års erfaring med gruppearbeid på internett. Endringer eller kommentarer kan sendes til [Martin på twitter](http://twitter.com/martior) eller [lag en ticket eller pull request på github](https://github.com/martior/hjemmekontor/issues).
 
-[10 læresetninger for et godt hjemmekontor av DN's Stine Engen](https://www.dn.no/d2/livsstil/10-tips-slik-lykkes-du-med-hjemmekontoret/2-1-771731)
 
