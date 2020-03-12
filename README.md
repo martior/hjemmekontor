@@ -7,16 +7,20 @@ Mange av dere har allerede verktøy igjennom programvarepakken for epost og offi
 
 ## Jeg har office 360 på jobb
 Da har du allerede tilgang til følgende:
+
 ### Video og gruppechat
 - [Microsoft Teams](https://products.office.com/nb-no/microsoft-teams/group-chat-software?market=no) Gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere.
+
 ### Fildeling
 - [OneDrive](https://onedrive.live.com/about/nb-no/)
 
 ## Jeg har Google gsuite
 Da har du allerede tilgang til følgende:
+
 ### Video og gruppechat
 - [meet.google.com](https://meet.google.com/_meet) for eksterne møter
 - [Google Hangouts](https://hangouts.google.com/webchat/start) for gruppechat og interne videomøter
+
 ### Fildeling
 - [Google Drive](https://www.google.com/drive/)
 
@@ -38,6 +42,11 @@ Da har du allerede tilgang til følgende:
 Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan følgende platformer brukes til live overføring av video til mange deltakere. F.eks for gudstjenester, konserter, bokbad, foredrag.
 
 - [Youtube](https://www.youtube.com/) Du kan strame fra pc eller hvis du har over 1000 abonnenter på kanalen din kan du også streame direkte fra mobil.
+
+# Organisering av oppgaver
+Her finnes det mange verktøy, men ingen er så fleksible og allsidige som [Trello](https://trello.com/martior/boards). Det krever litt disiplin å bruke riktig, og ale abreidsflyt som invovererer flere må ha gode rutiner. 
+
+- [Trello](https://trello.com/martior/boards) - Delte oppslagstavler.
 
 
 # Undervisning
