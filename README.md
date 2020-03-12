@@ -5,23 +5,34 @@ Dette er alle verktøy som du raskt kan komme i gang med uten å ha din egen ser
 
 Mange av dere har allerede verktøy igjennom programvarepakken for epost og office-programmer. Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
 
-## Min arbeidsgiver har office 360 i dag
+## Jeg har office 360 på jobb
+Da har du allerede tilgang til følgende:
+### Video og gruppechat
 - [Microsoft Teams](https://products.office.com/nb-no/microsoft-teams/group-chat-software?market=no) Gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere.
+### Fildeling
+- [OneDrive](https://onedrive.live.com/about/nb-no/)
 
-
-## Min arebidsgiver har Google gsuite
-
-
+## Jeg har Google gsuite
+Da har du allerede tilgang til følgende:
+### Video og gruppechat
 - [meet.google.com](https://meet.google.com/_meet) for eksterne møter
 - [Google Hangouts](https://hangouts.google.com/webchat/start) for gruppechat og interne videomøter
+### Fildeling
+- [Google Drive](https://www.google.com/drive/)
 
 
-## Min bedrift har ingen av delene
+## Jeg har ingen av delene
+
+### Video og gruppechat
 
 - [Whereby](https://whereby.com) - Digitale videomøter uten å måtte laste ned programvare. Gratis for opp til 4 deltakere. Norsk tjeneste.
 - [Jitsi Meet](https://meet.jit.si) Digitale videomøter. Gratis og open source uten å måtte laste ned programvare eller registrere seg.
 - [Slack](https://slack.com/)  – Gruppechat med gratisversjon med noe begrenset funksjonalitet.
 - [Zoom](https://zoom.us/)  – Digitale videomøter og chat. (Gratis for 1-1 møter)
+
+### Fildeling
+- [Box](https://www.box.com/)
+- [Dropbox](https://www.dropbox.com/)
 
 # Streaming av arrangement
 Hvis du ikke trenger gode verktøy for tilbakemelding/spørsmålshåndtering kan følgende platformer brukes til live overføring av video til mange deltakere. F.eks for gudstjenester, konserter, bokbad, foredrag.
